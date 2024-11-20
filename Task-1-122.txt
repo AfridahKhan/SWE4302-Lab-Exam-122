@@ -1,0 +1,12 @@
+inventorySystem-
+1-98  large class, too many responsibilities
+10-37 nested class 
+43-68 conditional complexity
+74-102 conditional complexity, magic numbers
+132-155 large method
+104-119 code duplication calculateTotalInventoryValue,calculateWarehouseValue
+warehouse
+doesn't have any method
+inventoryManagementSystem 
+10-11 message chain
+ 
